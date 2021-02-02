@@ -4,7 +4,8 @@ namespace PlanningGeneratorAPI
 {
     public class WeatherForecast
     {
-        public DateTime Date { get; set; }
+        public DateTime Date { get; set; } 
+        /// test
 
         public int TemperatureC { get; set; }
 
